@@ -42,53 +42,7 @@
                 android:gravity="center"
                 android:text="Need help? We're right here.\nGet a quick answers, contact info\nand more for this booking with\nour interactive help feature"
                 />
-            <com.google.android.material.button.MaterialButton
-                android:layout_width="320dp"
-                android:layout_height="wrap_content"
-                app:cornerRadius="0dp"
-                android:textColor="@color/black"
-                android:backgroundTint="#7ABDFB"
-                android:layout_marginBottom="10dp"
-                android:gravity="center"
-                android:text="What kind of help do you need?"
-                />
-            <com.google.android.material.button.MaterialButton
-                android:layout_width="320dp"
-                android:layout_height="wrap_content"
-                app:cornerRadius="0dp"
-                android:textColor="@color/black"
-                android:backgroundTint="#7ABDFB"
-                android:gravity="center"
-                android:layout_marginBottom="10dp"
-                android:text="How can I get more info about the \nroom or hotel?"
-                />
-            <com.google.android.material.button.MaterialButton
-                android:layout_width="320dp"
-                android:layout_height="wrap_content"
-                app:cornerRadius="0dp"
-                android:backgroundTint="#7ABDFB"
-                android:textColor="@color/black"
-                android:layout_marginBottom="10dp"
-                android:gravity="center"
-                android:text="When do I get a confirmation \nemail?"/>
-            <com.google.android.material.button.MaterialButton
-                android:layout_width="320dp"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:textColor="@color/black"
-                android:backgroundTint="#7ABDFB"
-                app:cornerRadius="0dp"
-                android:gravity="center"
-                android:text="Where do I check my booking \ndetails and status?"/>
-            <com.google.android.material.button.MaterialButton
-                android:layout_width="320dp"
-                android:textColor="@color/black"
-                android:backgroundTint="#7ABDFB"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                app:cornerRadius="0dp"
-                android:gravity="center"
-                android:text="Can you resend the booking \nvoucher for me?"/>
+
 
         </LinearLayout>
     </LinearLayout>
