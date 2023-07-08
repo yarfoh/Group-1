@@ -63,7 +63,7 @@
                 <EditText
                     android:id="@+id/fullname"
                     android:layout_width="300dp"
-                    android:hint="Enter Full name"
+                    android:hint="Full name"
                     android:textColorHint="@color/black"
                     android:textStyle="normal"
                     android:textColor="#505050"
@@ -150,7 +150,7 @@
                     android:layout_height="wrap_content"
                     android:text="Signin"
                     android:textColor="@color/white"
-                    android:layout_marginStart="10dp"
+                    android:layout_marginStart="12dp"
                     />
             </LinearLayout>
         </LinearLayout>
