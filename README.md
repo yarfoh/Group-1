@@ -1,9 +1,15 @@
 <h1 align="center">Group-1 (Prime - Hotel Manage)</h1>
 
+
+
+
+
 <li>Augustine Love Stephens --> <kbd>10958661</kbd>
 </li>
+
 <li>Ibrahim Aziz --> <kbd>10960199</kbd>
 </li>
+
 <li>Elijah Darkeh Agbedam --> <kbd>10960599</kbd>
 </li>
 <li>Essilfie Prince Bondzie --> <kbd>10957300</kbd>
