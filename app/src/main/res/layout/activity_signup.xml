@@ -43,7 +43,7 @@
                 <EditText
                     android:id="@+id/usernameEditText"
                     android:layout_width="300dp"
-                    android:hint="Username"
+                    android:hint="Enter Username"
                     android:textColorHint="@color/black"
                     android:textStyle="normal"
                     android:textColor="#505050"
@@ -63,7 +63,7 @@
                 <EditText
                     android:id="@+id/fullname"
                     android:layout_width="300dp"
-                    android:hint="Full name"
+                    android:hint="Enter Full name"
                     android:textColorHint="@color/black"
                     android:textStyle="normal"
                     android:textColor="#505050"
@@ -128,7 +128,7 @@
                 android:gravity="center"
                 android:layout_gravity="center"
                 android:layout_width="220dp"
-                android:backgroundTint="#FFC107"
+                android:backgroundTint="#1076BF"
                 android:layout_height="55dp"/>
             <LinearLayout
                 android:layout_width="match_parent"
