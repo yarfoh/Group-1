@@ -20,9 +20,9 @@
 </li>
 <li>Abu Nana Kwame Isaac --> <kbd>10974843</kbd>
 </li>
-<li>Nana Asare Nkansah --> <kbd>10947895</kbd>
+<li>Nana Asare Nkansah --> <kbd>10984932</kbd>
 </li>
-<li>Gabriella Nuerkie Narh --> <kbd>10984932</kbd>
+<li>Gabriella Nuerkie Narh --> <kbd>10947895</kbd>
 </li>
 <li>Emmanuel Agyir Mensah --> <kbd>10975240</kbd>
 </li>
