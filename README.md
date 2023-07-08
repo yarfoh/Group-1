@@ -18,5 +18,5 @@
 </li>
 <li>Gabriella Nuerkie Narh --> <kbd>10968550</kbd>
 </li>
-<li>Emmanuel Agyir Mensah
+<li>Emmanuel Agyir Mensah --> <kbd>10975240</kbd>
 </li>
