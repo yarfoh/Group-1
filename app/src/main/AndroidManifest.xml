@@ -16,13 +16,34 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyClX5RsBFkrwSJR4afkIUm79AH5H4rwBO4" />
         <activity
-            android:name=".MainActivity"
+            android:name=".SigninActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MapActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+        android:name=".HelpActivity"
+        android:exported="true">
+
+    </activity>
+        <activity
+            android:name=".SignupActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
         </activity>
     </application>
 
