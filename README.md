@@ -1,4 +1,4 @@
-<h1 align="center">Group-1 (Prime - Hotel Manage)</h1>
+<h1 align="center">Group-1 (Prime - Hotel Booking System)</h1>
 
 
 
