@@ -1,4 +1,4 @@
-package com.example.prime;
+package com.example.sprime;
 
 import android.content.Intent;
 import android.os.Bundle;
