@@ -23,7 +23,7 @@ public class DetailActivity extends AppCompatActivity {
                 navigateToScreen();
             }
             private void navigateToScreen() {
-               
+                Intent 
                 startActivity(intent);
             }
         });
