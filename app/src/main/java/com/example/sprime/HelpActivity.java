@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.google.android.material.button.MaterialButton;
 
 public class HelpActivity extends AppCompatActivity {
-    Button[] books;
+    Button[] books; 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
