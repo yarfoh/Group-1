@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.google.android.material.button.MaterialButton;
 
 import org.w3c.dom.Text;
-
+//Signup Activity java file
 public class SignupActivity extends AppCompatActivity {
     TextView textView;
     Button button;
